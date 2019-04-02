@@ -1,4 +1,4 @@
-package algorithms.tenbase;
+package algorithms.tenbase.xpc;
 
 public class ChoiceSort {
     public static int[] sort(int[] array){
